@@ -1,7 +1,7 @@
 # BcChloe-protection
 # === BcChloe-protection ===
 * Contributors: BcChloe
-* Donate link: https://github.com/ifNoob
+* Donate link: https://github.com/ifNoob/BcChloe-protection
 * Author URI: https://bcchloe.jp
 * Tags: html, imgdrag, copy, paste, sourcecode, printscreen
 * Requires at least: 4.x.x PHP 7.2.x
