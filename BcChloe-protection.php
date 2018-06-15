@@ -6,7 +6,7 @@ Description: WordPress html not imgdrag | copy&paste | sourcecode | printscreen 
 Author: BcChloe
 Author URI: https://bcchloe.jp
 Text Domain: bcchloe-protection
-Version: 1.1
+Version: 1.1.1
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
@@ -19,8 +19,6 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 define( 'BC_PR_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'BC_PR_PLUGIN_URL', plugins_url( '' , __FILE__) );
 //global $foo;
-
-	add_action( 'init', array( 'BcChloe_Protection', 'bcchloe_protection_init' ) );
 
 class BcChloe_Protection {
 
